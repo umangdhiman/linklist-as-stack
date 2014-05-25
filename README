@@ -1,0 +1,1 @@
+Linked list can be used as stack. The only difference from linear linked list is that the element to be inserted is inserted as first node(last in) and when it comes to deletion, the first node is deleted because it was the last-in node.
